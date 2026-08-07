@@ -1,3 +1,7 @@
+# Types of cache
 .vscode
 .venv
 __pycache__
+
+# Copy files
+*copy.*
