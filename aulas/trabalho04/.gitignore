@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# artefatos gerados pelo pipeline (rode `python main.py` para recriar)
+outputs/*.png
+outputs/*.csv
