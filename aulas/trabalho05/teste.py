@@ -1,10 +1,28 @@
 import random
-from datetime import datetime, timedelta
 
-data_teste = datetime.now() - timedelta(random.randint(1, 365))
-if random.randint(0, 1) == 0:
-    data_teste = data_teste.strftime("%d/%m/%Y")
-else:
-    data_teste = data_teste.strftime("%Y-%m-%d")
+opcoes_chaves = {
+    'cliente_id': ['cliente_id', 'id_cliente', 'ID_Cliente'],
+    'nome_completo': ['nome_completo', 'nome', 'Nome_Completo'],
+    'documento_cpf_cnpj': ['documento_cpf_cnpj', 'cpf_cnpj', 'documento'],
+    'regiao_estado': ['regiao_estado', 'estado', 'regiao'],
+    'categoria_conta': ['categoria_conta', 'categoria', 'tipo_conta']
+}
 
-print(data_teste)
+lista = []
+
+for i in range(5):
+
+    chave_id = random.choice(opcoes_chaves['cliente_id'])
+    nome_id = random.choice(opcoes_chaves['nome_completo'])
+
+    dic_teste = {
+        'id' : f'{i}',
+        f'{chave_id}': "bola",
+        f'{nome_id}': "roblox"
+    }
+
+    lista.append(dic_teste)
+
+print(list((random.choice(lista)).values())[0])
+
+# print(random.choice(lista)[0])

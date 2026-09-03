@@ -1,0 +1,562 @@
+[
+  {
+    "ID_Cliente": 1,
+    "nome_completo": "Catarina da Rocha",
+    "cpf_cnpj": "560.291.784-58",
+    "estado": "PA",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 2,
+    "Nome_Completo": "Pietra da Paz",
+    "documento": "016.497.832-13",
+    "regiao_estado": "DF",
+    "tipo_conta": "Prata"
+  },
+  {
+    "id_cliente": 3,
+    "Nome_Completo": "Gabrielly Novais",
+    "cpf_cnpj": "357.641.289-19",
+    "regiao": "PI",
+    "tipo_conta": "Prata"
+  },
+  {
+    "id_cliente": 4,
+    "Nome_Completo": "Dr. João Gabriel da Cunha",
+    "documento_cpf_cnpj": "708.512.493-88",
+    "regiao": "MA",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 5,
+    "Nome_Completo": "Lucas Gabriel Vieira",
+    "documento": "80451976339",
+    "regiao": "PR",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "id_cliente": 6,
+    "Nome_Completo": "Felipe Oliveira",
+    "documento_cpf_cnpj": "953.427.061-06",
+    "regiao_estado": "SE",
+    "categoria": "Prata"
+  },
+  {
+    "ID_Cliente": 7,
+    "nome": "Thiago Pinto",
+    "documento_cpf_cnpj": "659.842.170-58",
+    "estado": "SC",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 8,
+    "nome_completo": "Igor Aragão",
+    "documento_cpf_cnpj": "43162780535",
+    "regiao": "PA",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 9,
+    "nome_completo": "Oliver Dias",
+    "documento_cpf_cnpj": "946.017.352-70",
+    "regiao_estado": "MT",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 10,
+    "nome_completo": "Dr. Yan Moreira",
+    "documento": "62784395065",
+    "estado": "SC",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 11,
+    "nome_completo": "Gael Henrique Vargas",
+    "documento_cpf_cnpj": "304.215.687-71",
+    "estado": "RR",
+    "categoria": "Ouro"
+  },
+  {
+    "id_cliente": 12,
+    "Nome_Completo": "João Guilherme Mendonça",
+    "documento": "45372918004",
+    "estado": "MT",
+    "tipo_conta": "Prata"
+  },
+  {
+    "ID_Cliente": 13,
+    "nome_completo": "Lavínia Abreu",
+    "cpf_cnpj": "40352916761",
+    "regiao": "AL",
+    "categoria": "Prata"
+  },
+  {
+    "cliente_id": 14,
+    "nome": "José Miguel Costela",
+    "documento": "27501386471",
+    "estado": "SE",
+    "categoria": "Ouro"
+  },
+  {
+    "id_cliente": 15,
+    "nome": "João Gabriel Machado",
+    "documento": "73462809113",
+    "regiao_estado": "AL",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 16,
+    "nome_completo": "Matteo Fonseca",
+    "documento_cpf_cnpj": "638.704.192-96",
+    "regiao": "SP",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "ID_Cliente": 17,
+    "nome": "Mirella Pereira",
+    "cpf_cnpj": "840.163.925-51",
+    "estado": "RS",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 18,
+    "nome_completo": "Maysa Farias",
+    "documento_cpf_cnpj": "634.192.085-70",
+    "regiao_estado": "AL",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 19,
+    "nome": "Heitor Aparecida",
+    "documento_cpf_cnpj": "21873596030",
+    "regiao_estado": "RS",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "id_cliente": 20,
+    "Nome_Completo": "Sr. Nathan Abreu",
+    "documento_cpf_cnpj": "650.372.814-07",
+    "regiao_estado": "PI",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 21,
+    "Nome_Completo": "Luna Aparecida",
+    "documento": "108.239.647-87",
+    "regiao": "SE",
+    "categoria": "Bronze"
+  },
+  {
+    "id_cliente": 22,
+    "nome_completo": "Leonardo Almeida",
+    "cpf_cnpj": "830.974.125-14",
+    "regiao": "SC",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "cliente_id": 23,
+    "Nome_Completo": "Maitê Viana",
+    "cpf_cnpj": "24587360171",
+    "estado": "AM",
+    "tipo_conta": "Prata"
+  },
+  {
+    "cliente_id": 24,
+    "Nome_Completo": "Isis Farias",
+    "documento_cpf_cnpj": "24970386196",
+    "regiao_estado": "RJ",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 25,
+    "Nome_Completo": "Dante Vargas",
+    "cpf_cnpj": "95618402785",
+    "regiao": "DF",
+    "categoria_conta": "Prata"
+  },
+  {
+    "ID_Cliente": 26,
+    "nome_completo": "Ana Liz Barbosa",
+    "documento_cpf_cnpj": "670.284.531-62",
+    "regiao": "AL",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "id_cliente": 27,
+    "nome": "Letícia Peixoto",
+    "documento_cpf_cnpj": "93170685457",
+    "regiao_estado": "ES",
+    "tipo_conta": "Prata"
+  },
+  {
+    "cliente_id": 28,
+    "nome_completo": "Agatha Melo",
+    "cpf_cnpj": "36927405143",
+    "regiao_estado": "SE",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 29,
+    "nome": "Oliver Macedo",
+    "cpf_cnpj": "97265431006",
+    "regiao": "SE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 30,
+    "nome": "Vitor Silveira",
+    "documento": "69405273116",
+    "estado": "MT",
+    "categoria": "Prata"
+  },
+  {
+    "cliente_id": 31,
+    "nome_completo": "Sra. Sarah Barbosa",
+    "cpf_cnpj": "64958127364",
+    "estado": "PB",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 32,
+    "nome_completo": "Srta. Sofia da Rosa",
+    "documento": "68901532786",
+    "estado": "SC",
+    "categoria_conta": "Prata"
+  },
+  {
+    "id_cliente": 33,
+    "Nome_Completo": "Ryan Camargo",
+    "documento_cpf_cnpj": "165.829.304-51",
+    "regiao_estado": "MA",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "ID_Cliente": 34,
+    "nome_completo": "Nina Viana",
+    "cpf_cnpj": "302.695.784-47",
+    "estado": "MT",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "ID_Cliente": 35,
+    "Nome_Completo": "João Pedro Alves",
+    "cpf_cnpj": "17640853966",
+    "estado": "MG",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 36,
+    "Nome_Completo": "Sofia Cardoso",
+    "documento": "521.476.839-73",
+    "regiao_estado": "AL",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "id_cliente": 37,
+    "Nome_Completo": "Melissa Cirino",
+    "cpf_cnpj": "417.953.068-66",
+    "regiao": "PA",
+    "categoria": "Bronze"
+  },
+  {
+    "id_cliente": 38,
+    "Nome_Completo": "Maria Caldeira",
+    "cpf_cnpj": "46721980304",
+    "regiao_estado": "SE",
+    "categoria": "Bronze"
+  },
+  {
+    "id_cliente": 39,
+    "nome_completo": "Davi Miguel Jesus",
+    "cpf_cnpj": "49712830640",
+    "regiao_estado": "MS",
+    "categoria_conta": "Prata"
+  },
+  {
+    "cliente_id": 40,
+    "nome_completo": "Srta. Maria Júlia Fogaça",
+    "documento": "120.538.476-62",
+    "estado": "MA",
+    "categoria": "Prata"
+  },
+  {
+    "cliente_id": 41,
+    "Nome_Completo": "Maria Liz Câmara",
+    "cpf_cnpj": "35610982405",
+    "regiao": "PR",
+    "tipo_conta": "Prata"
+  },
+  {
+    "id_cliente": 42,
+    "nome": "Maria Clara da Conceição",
+    "documento_cpf_cnpj": "678.402.319-69",
+    "regiao_estado": "DF",
+    "categoria": "Ouro"
+  },
+  {
+    "id_cliente": 43,
+    "Nome_Completo": "Ágatha Oliveira",
+    "documento_cpf_cnpj": "96120478396",
+    "estado": "MS",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "id_cliente": 44,
+    "nome": "Pedro Lucas da Mata",
+    "documento": "897.341.265-55",
+    "regiao": "TO",
+    "categoria_conta": "Prata"
+  },
+  {
+    "ID_Cliente": 45,
+    "nome_completo": "Dra. Manuella Silveira",
+    "documento": "309.426.581-24",
+    "regiao": "SC",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "ID_Cliente": 46,
+    "Nome_Completo": "Ana Julia Peixoto",
+    "documento": "82147053988",
+    "regiao": "RN",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 47,
+    "nome_completo": "Sra. Maria Fernanda Ribeiro",
+    "cpf_cnpj": "54927803600",
+    "regiao_estado": "PA",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "cliente_id": 48,
+    "nome": "Isaque Fogaça",
+    "documento": "021.378.564-17",
+    "regiao": "AC",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 49,
+    "nome_completo": "Miguel Martins",
+    "documento_cpf_cnpj": "179.025.643-70",
+    "regiao_estado": "MT",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "ID_Cliente": 50,
+    "nome": "Mariane Viana",
+    "documento": "538.027.694-65",
+    "estado": "PI",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "ID_Cliente": 51,
+    "nome": "Camila Ribeiro",
+    "cpf_cnpj": "456.281.397-00",
+    "estado": "PB",
+    "categoria": "Ouro"
+  },
+  {
+    "cliente_id": 52,
+    "Nome_Completo": "Gabriel Moraes",
+    "documento_cpf_cnpj": "719.634.205-43",
+    "estado": "BA",
+    "tipo_conta": "Prata"
+  },
+  {
+    "cliente_id": 53,
+    "nome_completo": "Gabriela Peixoto",
+    "documento_cpf_cnpj": "51437806910",
+    "regiao_estado": "PB",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 54,
+    "Nome_Completo": "Dr. João Gabriel Rocha",
+    "cpf_cnpj": "50713649216",
+    "estado": "AC",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 55,
+    "nome": "Sra. Maria Liz Casa Grande",
+    "documento": "08261973530",
+    "estado": "SE",
+    "categoria": "Bronze"
+  },
+  {
+    "id_cliente": 56,
+    "Nome_Completo": "Helena Mendes",
+    "documento": "02946587347",
+    "regiao_estado": "PI",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "id_cliente": 57,
+    "Nome_Completo": "Lorenzo Almeida",
+    "documento_cpf_cnpj": "10835764966",
+    "estado": "TO",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 58,
+    "nome_completo": "Ana Carolina Leão",
+    "documento": "53649170884",
+    "regiao": "MT",
+    "tipo_conta": "Prata"
+  },
+  {
+    "ID_Cliente": 59,
+    "nome_completo": "Marcela da Mata",
+    "cpf_cnpj": "426.973.185-00",
+    "regiao": "CE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "id_cliente": 60,
+    "nome": "Augusto Jesus",
+    "documento_cpf_cnpj": "580.612.394-42",
+    "regiao": "RJ",
+    "categoria_conta": "Prata"
+  },
+  {
+    "id_cliente": 61,
+    "Nome_Completo": "Jade Silva",
+    "documento_cpf_cnpj": "93574218664",
+    "regiao": "SC",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 62,
+    "nome_completo": "Dr. Enzo Rocha",
+    "documento": "231.065.789-12",
+    "regiao_estado": "PI",
+    "tipo_conta": "Ouro"
+  },
+  {
+    "cliente_id": 63,
+    "Nome_Completo": "Maria Isis Vargas",
+    "cpf_cnpj": "09754128332",
+    "regiao_estado": "SC",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 64,
+    "nome_completo": "Clara Carvalho",
+    "documento_cpf_cnpj": "902.368.751-59",
+    "regiao_estado": "PI",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 65,
+    "nome": "Maria Fernanda Gomes",
+    "documento": "20958361703",
+    "estado": "SE",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "ID_Cliente": 66,
+    "nome": "Srta. Elisa Costela",
+    "documento": "465.827.093-56",
+    "regiao_estado": "AM",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "id_cliente": 67,
+    "nome_completo": "Vitor Aragão",
+    "cpf_cnpj": "107.253.948-97",
+    "estado": "MT",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 68,
+    "nome": "Ana Liz Montenegro",
+    "documento_cpf_cnpj": "38702956438",
+    "estado": "PA",
+    "tipo_conta": "Prata"
+  },
+  {
+    "cliente_id": 69,
+    "nome_completo": "Eloah Rodrigues",
+    "documento": "34086197278",
+    "regiao_estado": "SC",
+    "categoria_conta": "Ouro"
+  },
+  {
+    "cliente_id": 70,
+    "nome": "Ana Luiza Correia",
+    "documento_cpf_cnpj": "213.096.875-95",
+    "estado": "AC",
+    "categoria": "Prata"
+  },
+  {
+    "ID_Cliente": 71,
+    "nome_completo": "Benjamin Marques",
+    "documento": "756.481.293-19",
+    "estado": "ES",
+    "categoria": "Ouro"
+  },
+  {
+    "ID_Cliente": 72,
+    "Nome_Completo": "Luísa Gonçalves",
+    "cpf_cnpj": "158.094.723-97",
+    "regiao": "RS",
+    "tipo_conta": "Bronze"
+  },
+  {
+    "id_cliente": 73,
+    "Nome_Completo": "Pedro Miguel Duarte",
+    "documento": "82513604717",
+    "estado": "PR",
+    "tipo_conta": "Prata"
+  },
+  {
+    "id_cliente": 74,
+    "Nome_Completo": "Luiz Miguel Fogaça",
+    "cpf_cnpj": "62593781491",
+    "regiao_estado": "MT",
+    "tipo_conta": "Prata"
+  },
+  {
+    "cliente_id": 75,
+    "nome_completo": "Ana Luiza Jesus",
+    "cpf_cnpj": "28539014750",
+    "regiao_estado": "RJ",
+    "categoria": "Bronze"
+  },
+  {
+    "cliente_id": 76,
+    "Nome_Completo": "Gustavo Henrique Melo",
+    "documento_cpf_cnpj": "79283160487",
+    "regiao_estado": "RN",
+    "categoria_conta": "Bronze"
+  },
+  {
+    "cliente_id": 77,
+    "nome_completo": "Amanda Borges",
+    "cpf_cnpj": "27163954034",
+    "regiao_estado": "AP",
+    "tipo_conta": "Prata"
+  },
+  {
+    "cliente_id": 78,
+    "Nome_Completo": "Ana Cirino",
+    "cpf_cnpj": "43128075662",
+    "estado": "RO",
+    "categoria": "Ouro"
+  },
+  {
+    "cliente_id": 79,
+    "nome_completo": "Diego Sampaio",
+    "documento": "63170829440",
+    "estado": "RJ",
+    "categoria": "Ouro"
+  },
+  {
+    "id_cliente": 80,
+    "nome_completo": "Ravi Freitas",
+    "cpf_cnpj": "913.842.576-91",
+    "estado": "CE",
+    "categoria_conta": "Prata"
+  }
+]
