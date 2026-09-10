@@ -18,8 +18,12 @@ This is a public repository for my **MLOps classes**, so can see all the codes t
 
 | Class | Description |
 |---|---|
-| [Aula 01](aulas/aula01) | 🎬 MLOps pipeline simulator: data ingestion, ETL/cleaning, training and a deploy gate. |
-| [Aula 02](aulas/aula02) | 🗃️ Data Warehouse with DuckDB: OLTP to OLAP, Star Schema, export to Excel. |
+| [Trabalho 01](aulas/trabalho01) | 🎬 MLOps pipeline simulator: data ingestion, ETL/cleaning, training and a deploy gate. |
+| [Trabalho 02](aulas/trabalho02) | 🗃️ Data Warehouse with DuckDB: OLTP to OLAP, Star Schema, export to Excel. |
+| [Trabalho 03](aulas/trabalho3) | 🔧 Predictive maintenance for an air compressor: two Random Forests + a live Streamlit dashboard. |
+| [Trabalho 04](aulas/trabalho04) | 📊 Classification metrics on imbalanced data: why accuracy lies and how to tune the threshold by cost. |
+| [Trabalho 05](aulas/trabalho05) | 🧹 Dirty data generator (JSON CRM + CSV shipments) to feed an ETL pipeline. *(in progress)* |
+| [Trabalho 06](aulas/trabalho06) | 👥 Modular churn classification pipeline (pivot table + Logistic Regression), built as a trio project. |
 
 ## Suit yourself and clone the repository
 
@@ -53,8 +57,12 @@ Este é um repositório público para minhas **aulas de MLOps**, para que você 
 
 | Aula | Descrição |
 |---|---|
-| [Aula 01](aulas/aula01) | 🎬 Simulador de pipeline de MLOps: ingestão de dados, ETL/limpeza, treinamento e um portão de deploy. |
-| [Aula 02](aulas/aula02) | 🗃️ Data Warehouse com DuckDB: de OLTP para OLAP, Star Schema, exportação para Excel. |
+| [Trabalho 01](aulas/trabalho01) | 🎬 Simulador de pipeline de MLOps: ingestão de dados, ETL/limpeza, treinamento e um portão de deploy. |
+| [Trabalho 02](aulas/trabalho02) | 🗃️ Data Warehouse com DuckDB: de OLTP para OLAP, Star Schema, exportação para Excel. |
+| [Trabalho 03](aulas/trabalho3) | 🔧 Manutenção preditiva de um compressor de ar: dois Random Forests + um dashboard ao vivo em Streamlit. |
+| [Trabalho 04](aulas/trabalho04) | 📊 Métricas de classificação em dados desbalanceados: por que a acurácia mente e como ajustar o threshold por custo. |
+| [Trabalho 05](aulas/trabalho05) | 🧹 Gerador de dados sujos (CRM em JSON + envios em CSV) para alimentar um pipeline de ETL. *(em desenvolvimento)* |
+| [Trabalho 06](aulas/trabalho06) | 👥 Pipeline modularizado de classificação de churn (tabela dinâmica + Regressão Logística), feito como trabalho em trio. |
 
 ## Sinta-se à vontade para clonar o repositório
 
